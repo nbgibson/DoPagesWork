@@ -1,2 +1,3 @@
 name: Do Pages Work, A test project
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
